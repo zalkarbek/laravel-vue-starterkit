@@ -26,3 +26,7 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+.composer_hash
+.npm_hash
+.migration_hash

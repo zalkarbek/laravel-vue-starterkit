@@ -9,3 +9,7 @@ vendor/
 public/build/
 
 npm-debug.log
+
+.composer_hash
+.npm_hash
+.migration_hash
