@@ -1,0 +1,11 @@
+.env
+.dockerignore
+.gitignore
+
+.git/
+storage/logs/
+node_modules/
+vendor/
+public/build/
+
+npm-debug.log
